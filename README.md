@@ -3,7 +3,7 @@
 Flutter social is a social media website I wrote using Java on Google Cloud
 Platform over the summer. [Try it here!](https://flutter-social-platform.appspot.com)
 
-Features Implemented:
+## Features Implemented
 * Email verification
 * Password strength checking
 * Salted password hashing
